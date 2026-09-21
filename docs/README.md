@@ -1,77 +1,77 @@
 <div align="center">
 
-# 🥷 Arsenal de YNEO — Guía de Navegación
+# 🥷 YNEO's Arsenal — Navigation Guide
 
-*Elige tu camino, ninja...* 🌙
+*Choose your path, ninja...* 🌙
 
 </div>
 
 ---
 
-## 🗺️ Mapa del Arsenal
+## 🗺️ Arsenal Map
 
-| 📂 Documento | 🥷 Camino | 📖 Qué aprenderás |
+| 📂 Document | 🥷 Path | 📖 What you'll learn |
 |---|---|---|
-| [`OSINT.md`](OSINT.md) | **La Recolección de Información** | Cómo encontrar datos de fuentes abiertas: nombres de usuario, emails, dominios, metadatos, dispositivos expuestos y más |
-| [`OPSEC.md`](OPSEC.md) | **El Arte de la Invisibilidad** | Cómo proteger tu identidad, anonimizar tu tráfico y cifrar tus secretos |
-| [`KALI.md`](KALI.md) | **La Espada del Pentesting** | Las herramientas ofensivas más usadas: escaneo, explotación, contraseñas, redes y más |
-| [`CHEATSHEETS.md`](CHEATSHEETS.md) | **El Pergamino Rápido** | Los comandos esenciales de un vistazo, sin rodeos |
+| [`OSINT.md`](OSINT.md) | **The Information Gathering** | How to find data from open sources: usernames, emails, domains, metadata, exposed devices and more |
+| [`OPSEC.md`](OPSEC.md) | **The Art of Invisibility** | How to protect your identity, anonymize your traffic and encrypt your secrets |
+| [`KALI.md`](KALI.md) | **The Pentesting Blade** | The most used offensive tools: scanning, exploitation, passwords, networks and more |
+| [`CHEATSHEETS.md`](CHEATSHEETS.md) | **The Quick Scroll** | Essential commands at a glance, no fluff |
 
 ---
 
-## 🎓 Niveles del Ninja
+## 🎓 Ninja Levels
 
-Cada herramienta está marcada con su nivel de dificultad:
+Each tool is marked with its difficulty level:
 
-| Nivel | Icono | Descripción |
+| Level | Icon | Description |
 |---|---|---|
-| Básico | 🌱 | Fácil, ideal para empezar |
-| Intermedio | 🌿 | Requiere práctica y fundamentos |
-| Avanzado | 🥷 | Para ninjas con experiencia |
+| Beginner | 🌱 | Easy, ideal to start |
+| Intermediate | 🌿 | Requires practice and fundamentals |
+| Advanced | 🥷 | For experienced ninjas |
 
-## 📖 Formato de cada herramienta
+## 📖 Tool card format
 
-Cada ficha incluye:
-- **Descripción** — qué hace y para qué sirve
-- **Instalación** — cómo obtenerla en Kali Linux
-- **Uso básico** — primeros comandos
-- **Ejemplos** — casos reales con código
-- **Escenarios** — cuándo usarla
-- **Tips y nivel** — consejos del shinobi
+Each tool card includes:
+- **Description** — what it does and what it's for
+- **Installation** — how to get it on Kali Linux
+- **Basic usage** — first commands
+- **Examples** — real cases with code
+- **Scenarios** — when to use it
+- **Tips & level** — shinobi advice
 
 ---
 
-## 🧭 Rutas recomendadas
+## 🧭 Recommended paths
 
 ```text
-🥷 NUEVO (Cero experiencia)
+🥷 NEW (zero experience)
    ─────────────────────────
-   1. Cheatsheets básicas (navegación y red)
-   2. Nmap (escaneo)
-   3. Nmap → Wireshark (análisis)
-   4. theHarvester (primer OSINT)
+   1. Basic cheatsheets (navigation & networking)
+   2. Nmap (scanning)
+   3. Nmap → Wireshark (analysis)
+   4. theHarvester (first OSINT)
 
-⚔️ PENTESTER EN ENTRENAMIENTO
+⚔️ TRAINING PENTESTER
    ─────────────────────────
-   1. Reconocimiento: Nmap + Amass + theHarvester
-   2. Enumeración: Gobuster + Nikto
-   3. Explotación: Metasploit + sqlmap
-   4. Contraseñas: Hydra + John the Ripper
+   1. Recon: Nmap + Amass + theHarvester
+   2. Enumeration: Gobuster + Nikto
+   3. Exploitation: Metasploit + sqlmap
+   4. Passwords: Hydra + John the Ripper
 
-🛡️ NINJA DE LA PRIVACIDAD
+🛡️ PRIVACY NINJA
    ─────────────────────────
    1. Tor + ProxyChains + Nipe
    2. KeePassXC + VeraCrypt + GPG
-   3. MAT + BleachBit (limpieza de metadatos)
-   4. Tails (SO anónimo)
+   3. MAT + BleachBit (metadata cleanup)
+   4. Tails (anonymous OS)
 ```
 
 ---
 
 <div align="center">
 
-**«La información es poder. El conocimiento es libertad.»** 🐉
+**"Information is power. Knowledge is freedom."** 🐉
 
-[⬅ Volver al perfil](../README.md)
+[⬅ Back to profile](../README.md)
 
 </div>

@@ -9,109 +9,109 @@
    ╚═╝   ╚═╝  ╚═══╝╚══════╝ ╚═════╝ 
 ```
 
-# 🥷 YNEO · El Ninja de las Sombras Digitales
+# 🥷 YNEO · Digital Shadow Ninja
 
-*"Opero en la oscuridad de la red, donde los datos susurran secretos."* 🌙
+*"I operate in the darkness of the net, where data whispers secrets."* 🌙
 
 [![OSINT](https://img.shields.io/badge/🥷-OSINT-black?style=for-the-badge&labelColor=0d1117&color=8A2BE2)](docs/OSINT.md)
 [![OpSec](https://img.shields.io/badge/🛡️-OpSec-black?style=for-the-badge&labelColor=0d1117&color=00FFFF)](docs/OPSEC.md)
 [![KALI](https://img.shields.io/badge/⚔️-Kali_Linux-black?style=for-the-badge&labelColor=0d1117&color=FF00FF)](docs/KALI.md)
 [![CHEATSHEETS](https://img.shields.io/badge/📜-Cheatsheets-black?style=for-the-badge&labelColor=0d1117&color=FFD700)](docs/CHEATSHEETS.md)
 
-![Visitas](https://komarev.com/ghpvc/?username=itzmanux67-maker&style=flat&color=8A2BE2&label=Observadores)
+![Visits](https://komarev.com/ghpvc/?username=yNeoo&style=flat&color=8A2BE2&label=Observers)
 
 </div>
 
 ---
 
-## 🌙 Quién soy
+## 🌙 Who I am
 
-> Shinobi del ciberespacio. Recolector de información (**OSINT**), guardián del anonimato (**OpSec**) y maestro del arte del pentesting con **Kali Linux**.
+> Cyberspace shinobi. Information gatherer (**OSINT**), guardian of anonymity (**OpSec**) and master of the art of penetration testing with **Kali Linux**.
 
-Este perfil es un **cofre del conocimiento**: la documentación más completa, en **español**, de las herramientas más usadas y útiles de **OSINT**, **OpSec** y **Kali Linux**, explicadas paso a paso para que cualquiera —del novato al ninja— pueda aprender y dominar el arte.
+This profile is a **treasure chest of knowledge**: the most complete documentation of the most used and useful **OSINT**, **OpSec** and **Kali Linux** tools — explained step by step so anyone, from beginner to ninja, can learn and master the art.
 
 ```text
-🎯 Objetivo: Compartir conocimiento de ciberseguridad ofensiva y defensiva
-🛠️  Armas: Kali Linux | OSINT | OpSec | Pentesting
-🎨 Estilo: Anime Black ⚫ + Neón 💜
+🎯 Goal:    Share offensive & defensive cybersecurity knowledge
+🛠️  Tools:  Kali Linux | OSINT | OpSec | Pentesting
+🎨 Style:   Anime Black ⚫ + Neon 💜
 ```
 
 ---
 
-## 📚 La Documentación (tu arsenal)
+## 📚 The Documentation (your arsenal)
 
-| 🥷 Categoría | 🗂️ Archivo | 📖 Contenido |
+| 🥷 Category | 🗂️ File | 📖 Contents |
 |---|---|---|
-| **OSINT** (Inteligencia de fuentes abiertas) | [`docs/OSINT.md`](docs/OSINT.md) | Maltego, Maltego CE, theHarvester, Sherlock, Maigret, Recon-ng, SpiderFoot, Shodan, PhoneInfoga, Holehe, ExifTool, Metagoofil, dmitry, Amass, sublist3r, WhatWeb y más |
-| **OpSec** (Seguridad operacional) | [`docs/OPSEC.md`](docs/OPSEC.md) | Tor, Tails, Whonix, ProxyChains, Nipe, macchanger, KeePassXC, VeraCrypt, GPG, MAT, BleachBit, secure-delete y más |
-| **Kali Linux** (La navaja suiza del hacker) | [`docs/KALI.md`](docs/KALI.md) | Nmap, Metasploit, Burp Suite, Wireshark, John the Ripper, Hashcat, Hydra, sqlmap, Aircrack-ng, Responder, BloodHound y más |
-| **Cheatsheets rápidas** | [`docs/CHEATSHEETS.md`](docs/CHEATSHEETS.md) | Comandos esenciales de un vistazo por categoría |
+| **OSINT** (Open Source Intelligence) | [`docs/OSINT.md`](docs/OSINT.md) | Maltego, theHarvester, Sherlock, Maigret, Recon-ng, SpiderFoot, Shodan, PhoneInfoga, Holehe, ExifTool, Metagoofil, dmitry, Amass, Sublist3r, WhatWeb and more |
+| **OpSec** (Operational Security) | [`docs/OPSEC.md`](docs/OPSEC.md) | Tor, Tails, Whonix, ProxyChains, Nipe, macchanger, KeePassXC, VeraCrypt, GPG, MAT, BleachBit, secure-delete and more |
+| **Kali Linux** (the hacker's swiss army knife) | [`docs/KALI.md`](docs/KALI.md) | Nmap, Metasploit, Burp Suite, Wireshark, John the Ripper, Hashcat, Hydra, sqlmap, Aircrack-ng, Responder, BloodHound and more |
+| **Quick Cheatsheets** | [`docs/CHEATSHEETS.md`](docs/CHEATSHEETS.md) | Essential commands at a glance, by category |
 
-> 👉 **Empieza por aquí:** [`docs/README.md`](docs/README.md) — Guía de navegación del arsenal.
+> 👉 **Start here:** [`docs/README.md`](docs/README.md) — Arsenal navigation guide.
 
 ---
 
-## ⚡ Estadísticas del Ninja
+## ⚡ Ninja Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzmanux67-maker&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yNeoo&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmanux67-maker&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yNeoo&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🛠️ Herramientas y Tecnologías
+## 🛠️ Tools & Technologies
 
 ```text
-OSINT        █████████████████████████░  Reconocimiento profundo
-OpSec        ████████████████████░░░░░░  Anonimato y privacidad
-Pentesting   ████████████████████████░░  Pruebas de penetración
-Networking   ██████████████████░░░░░░░░  Redes TCP/IP
-Bash / Linux ██████████████████████░░░░  Scripting y automatización
+OSINT        █████████████████████████░  Deep reconnaissance
+OpSec        ████████████████████░░░░░░  Anonymity & privacy
+Pentesting   ████████████████████████░░  Penetration testing
+Networking   ██████████████████░░░░░░░░  TCP/IP networks
+Bash / Linux ██████████████████████░░░░  Scripting & automation
 ```
 
 ---
 
-## 🧭 Rutas de aprendizaje
+## 🧭 Learning paths
 
 ```mermaid
 graph LR
-    A[Ninja Novato 👶] --> B[Fundamentos de Red 🌐]
-    B --> C{Especialización ⚔️}
-    C -->|Le gusta buscar info| D[OSINT 🥷]
-    C -->|Le gusta anonimato| E[OpSec 🛡️]
-    C -->|Le gusta hackear| F[Kali Pentesting ⚡]
-    D --> G[Ninja Maestro 🐉]
+    A[Ninja Novice 👶] --> B[Network Fundamentals 🌐]
+    B --> C{Specialize ⚔️}
+    C -->|Likes finding info| D[OSINT 🥷]
+    C -->|Likes anonymity| E[OpSec 🛡️]
+    C -->|Likes hacking| F[Kali Pentesting ⚡]
+    D --> G[Master Ninja 🐉]
     E --> G
     F --> G
 ```
 
 ---
 
-## ⚠️ Código de Honor (Disclaimer ético)
+## ⚠️ Code of Honor (Ethical Disclaimer)
 
-> **La información de este repositorio es solo con fines educativos y de investigación.**
-> Usar estas herramientas contra sistemas que no te pertenecen, **sin autorización por escrito**, es **ilegal** en la mayoría de países y puede llevarte a prisión.
+> **The information in this repository is for educational and research purposes only.**
+> Using these tools against systems you don't own, **without written authorization**, is **illegal** in most countries and can land you in prison.
 >
-> Un verdadero ninja usa su poder con **responsabilidad**, **ética** y **respeto por la ley**. 🥷
+> A true ninja wields their power with **responsibility**, **ethics** and **respect for the law**. 🥷
 
 ```text
-✅ Solo sistemas propios o con permiso explícito
-✅ Solo aprendizaje y defensa legítima
-✅ Jamás usamos el conocimiento para dañar
+✅ Only systems you own or have explicit permission to test
+✅ Only learning and legitimate defense
+✅ Never use this knowledge to harm
 ```
 
 ---
 
 <div align="center">
 
-**© 2026 YNEO · Hecho con 💜, ☕ y mucho Kali Linux**
+**© 2026 YNEO · Made with 💜, ☕ and lots of Kali Linux**
 
 ```text
- 🥷 「寝ずの番」 — La noche nunca duerme...
+ 🥷 「寝ずの番」 — The night never sleeps...
 ```
 
 </div>
