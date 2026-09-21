@@ -30,6 +30,7 @@ Ciberseguridad ofensiva y defensiva. Especialista en **OSINT** (inteligencia de 
 | [`kali-tools`](https://github.com/yNeoo/kali-tools) | Herramientas de Kali Linux: Nmap, Metasploit, Burp Suite, John, Hashcat, Hydra, sqlmap, Aircrack-ng, Gobuster y más |
 | [`opsec-tools`](https://github.com/yNeoo/opsec-tools) | Anonimato y protección: Tor, ProxyChains, Nipe, VeraCrypt, KeePassXC, GPG, MAT2 y más |
 | [`hacking-cheatsheets`](https://github.com/yNeoo/hacking-cheatsheets) | Comandos rápidos de referencia por categoría |
+| [`yNeoo-Tools`](https://github.com/yNeoo/yNeoo-Tools) | Minecraft Screenshare: análisis forense y detección de cheats |
 
 Cada repositorio incluye instalación (script `install.sh` + guía `INSTALL.md`), documentación completa de cada herramienta y aviso de uso responsable.
 
@@ -40,6 +41,7 @@ Cada repositorio incluye instalación (script `install.sh` + guía `INSTALL.md`)
 | Colección de herramientas OSINT documentadas | Activo |
 | Guía de anonimato y seguridad operacional | Activo |
 | Cheatsheets de pentesting | Activo |
+| Minecraft Screenshare (detección de cheats) | Activo |
 
 <table>
   <tr>
