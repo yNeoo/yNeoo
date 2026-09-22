@@ -34,6 +34,9 @@ Ciberseguridad ofensiva y defensiva. Especialista en **OSINT** (inteligencia de 
 | [`yNeoo-Tools`](https://github.com/yNeoo/yNeoo-Tools) | Minecraft Screenshare: análisis forense y detección de cheats |
 | [`hacking-lab`](https://github.com/yNeoo/hacking-lab) | Laboratorio de pentesting con Docker: DVWA, Juice Shop, bWAPP, Metasploitable y Kali en red aislada |
 | [`ctf-writeups`](https://github.com/yNeoo/ctf-writeups) | Plantillas y guías de writeups CTF: web, pwn, crypto, forensics, OSINT y re |
+| [`ad-attacks`](https://github.com/yNeoo/ad-attacks) | Ataques a Active Directory en laboratorio: Kerberoasting, AS-REP Roast, Pass-the-Hash, BloodHound + detección SIEM |
+| [`network-mitm`](https://github.com/yNeoo/network-mitm) | Ataques de red y MITM: Responder, BetterCap, ARP spoofing, Evil-Twin + detección |
+| [`exploit-dev`](https://github.com/yNeoo/exploit-dev) | Desarrollo de exploits: buffer overflow, ROP y mitigaciones (NX, ASLR, canary) |
 
 ### Defensa y forensia (Blue Team)
 
@@ -56,6 +59,7 @@ Cada repositorio incluye instalación (script `install.sh` + guía `INSTALL.md`)
 | Laboratorio de pentesting (Docker) | Activo |
 | Blue Team: SOC, forensia y hardening | Activo |
 | Writeups de CTFs | Activo |
+| Red Team: AD attacks + C2 + ofensiva avanzada (privado) | Activo |
 
 <table>
   <tr>
