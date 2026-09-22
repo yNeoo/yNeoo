@@ -22,6 +22,7 @@ Ciberseguridad ofensiva y defensiva. Especialista en **OSINT** (inteligencia de 
 | Repositorio | Descripción |
 |---|---|
 | [`osint-tools`](https://github.com/yNeoo/osint-tools) | Recopilación de información: Maltego, theHarvester, Amass, Shodan, Sherlock, Maigret, Recon-ng, SpiderFoot, Holehe, ExifTool y más |
+| [`awesome-osint-es`](https://github.com/yNeoo/awesome-osint-es) | Más de 60 categorías de herramientas y recursos OSINT explicados en español (adaptación de jivoi/awesome-osint) |
 
 ### Seguridad y pentesting
 
