@@ -32,6 +32,16 @@ Ciberseguridad ofensiva y defensiva. Especialista en **OSINT** (inteligencia de 
 | [`opsec-tools`](https://github.com/yNeoo/opsec-tools) | Anonimato y protección: Tor, ProxyChains, Nipe, VeraCrypt, KeePassXC, GPG, MAT2 y más |
 | [`hacking-cheatsheets`](https://github.com/yNeoo/hacking-cheatsheets) | Comandos rápidos de referencia por categoría |
 | [`yNeoo-Tools`](https://github.com/yNeoo/yNeoo-Tools) | Minecraft Screenshare: análisis forense y detección de cheats |
+| [`hacking-lab`](https://github.com/yNeoo/hacking-lab) | Laboratorio de pentesting con Docker: DVWA, Juice Shop, bWAPP, Metasploitable y Kali en red aislada |
+| [`ctf-writeups`](https://github.com/yNeoo/ctf-writeups) | Plantillas y guías de writeups CTF: web, pwn, crypto, forensics, OSINT y re |
+
+### Defensa y forensia (Blue Team)
+
+| Repositorio | Descripción |
+|---|---|
+| [`soc-blue-team`](https://github.com/yNeoo/soc-blue-team) | Kit Blue Team: Wazuh, Suricata, Zeek, TheHive, reglas Sigma y playbook de respuesta |
+| [`digital-forensics`](https://github.com/yNeoo/digital-forensics) | Informática forense (DFIR): memoria, disco, red, artefactos Windows y cadena de custodia |
+| [`hardening-guides`](https://github.com/yNeoo/hardening-guides) | Hardening de Linux y Windows: checklist accionables y auditoría con Lynis |
 
 Cada repositorio incluye instalación (script `install.sh` + guía `INSTALL.md`), documentación completa de cada herramienta y aviso de uso responsable.
 
@@ -43,6 +53,9 @@ Cada repositorio incluye instalación (script `install.sh` + guía `INSTALL.md`)
 | Guía de anonimato y seguridad operacional | Activo |
 | Cheatsheets de pentesting | Activo |
 | Minecraft Screenshare (detección de cheats) | Activo |
+| Laboratorio de pentesting (Docker) | Activo |
+| Blue Team: SOC, forensia y hardening | Activo |
+| Writeups de CTFs | Activo |
 
 <table>
   <tr>
