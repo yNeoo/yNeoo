@@ -37,6 +37,7 @@ Ciberseguridad ofensiva y defensiva. Especialista en **OSINT** (inteligencia de 
 | [`ad-attacks`](https://github.com/yNeoo/ad-attacks) | Ataques a Active Directory en laboratorio: Kerberoasting, AS-REP Roast, Pass-the-Hash, BloodHound + detección SIEM |
 | [`network-mitm`](https://github.com/yNeoo/network-mitm) | Ataques de red y MITM: Responder, BetterCap, ARP spoofing, Evil-Twin + detección |
 | [`exploit-dev`](https://github.com/yNeoo/exploit-dev) | Desarrollo de exploits: buffer overflow, ROP y mitigaciones (NX, ASLR, canary) |
+| [`offensive-tooling`](https://github.com/yNeoo/offensive-tooling) | Programación de herramientas ofensivas y defensivas: recon, ataques web de lab, MITM y exploit-dev en Python, Bash y PowerShell + detección |
 
 ### Defensa y forensia (Blue Team)
 
@@ -60,6 +61,7 @@ Cada repositorio incluye instalación (script `install.sh` + guía `INSTALL.md`)
 | Blue Team: SOC, forensia y hardening | Activo |
 | Writeups de CTFs | Activo |
 | Red Team: AD attacks + C2 + ofensiva avanzada (privado) | Activo |
+| Programación de herramientas (offensive-tooling) | Activo |
 
 <table>
   <tr>
