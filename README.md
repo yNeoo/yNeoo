@@ -45,6 +45,7 @@ Ciberseguridad ofensiva y defensiva. Especialista en **OSINT** (inteligencia de 
 |---|---|
 | [`soc-blue-team`](https://github.com/yNeoo/soc-blue-team) | Kit Blue Team: Wazuh, Suricata, Zeek, TheHive, reglas Sigma y playbook de respuesta |
 | [`digital-forensics`](https://github.com/yNeoo/digital-forensics) | Informática forense (DFIR): memoria, disco, red, artefactos Windows y cadena de custodia |
+| [`malware-analysis`](https://github.com/yNeoo/malware-analysis) | Tipos de malware documentados (virus, rootkits, ransomware, stealers...), análisis seguro en lab (REMnux/sandbox/memoria) y detección YARA/Sigma |
 | [`hardening-guides`](https://github.com/yNeoo/hardening-guides) | Hardening de Linux y Windows: checklist accionables y auditoría con Lynis |
 
 Cada repositorio incluye instalación (script `install.sh` + guía `INSTALL.md`), documentación completa de cada herramienta y aviso de uso responsable.
@@ -59,6 +60,7 @@ Cada repositorio incluye instalación (script `install.sh` + guía `INSTALL.md`)
 | Minecraft Screenshare (detección de cheats) | Activo |
 | Laboratorio de pentesting (Docker) | Activo |
 | Blue Team: SOC, forensia y hardening | Activo |
+| Análisis de malware y detección (malware-analysis) | Activo |
 | Writeups de CTFs | Activo |
 | Red Team: AD attacks + C2 + ofensiva avanzada (privado) | Activo |
 | Programación de herramientas (offensive-tooling) | Activo |
