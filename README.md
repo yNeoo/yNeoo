@@ -1,91 +1,78 @@
-```
-██╗   ██╗███╗   ██╗███████╗ ██████╗
-╚██╗ ██╔╝████╗  ██║██╔════╝██╔═══██╗
- ╚████╔╝ ██╔██╗ ██║█████╗  ██║   ██║
-  ╚██╔╝  ██║╚██╗██║██╔══╝  ██║   ██║
-   ██║   ██║ ╚████║███████╗╚██████╔╝
-   ╚═╝   ╚═╝  ╚═══╝╚══════╝ ╚═════╝
-```
+# yNeoo
 
-## Sobre mí
+> `security research // OSINT // Blue Team // authorized labs`
 
-Ciberseguridad ofensiva y defensiva. Especialista en **OSINT** (inteligencia de fuentes abiertas), seguridad operacional (**OpSec**) y pruebas de penetración con **Kali Linux**. Este perfil reúne documentación práctica, en español, de las herramientas más usadas en cada área.
+Perfil público de investigación y documentación en ciberseguridad. Trabajo con fuentes abiertas, privacidad operacional, análisis defensivo, forensia digital y endurecimiento de sistemas.
 
-- **Área principal:** OSINT · recopilación y análisis de información pública
-- **Otras áreas:** OpSec · anonimato y protección · Pentesting con Kali Linux
-- **Enfoque:** documentación útil, comandos listos para usar, explicaciones paso a paso
+Este perfil utiliza un alias público y no publica nombre real, correo, ubicación ni redes personales.
 
-## Repositorios
+## Enfoque
 
-### OSINT · área principal
+- **OSINT:** metodología, fuentes abiertas y reducción de exposición.
+- **Blue Team:** detección, triaje, respuesta a incidentes y reglas YARA/Sigma.
+- **Security engineering:** Linux, Windows, cloud, APIs y endurecimiento.
+- **Authorized labs:** documentación y experimentos en entornos propios o con autorización escrita.
 
-| Repositorio | Descripción |
+## Selected work
+
+| Proyecto | Enfoque |
 |---|---|
-| [`osint-tools`](https://github.com/yNeoo/osint-tools) | Recopilación de información: Maltego, theHarvester, Amass, Shodan, Sherlock, Maigret, Recon-ng, SpiderFoot, Holehe, ExifTool y más |
-| [`awesome-osint-es`](https://github.com/yNeoo/awesome-osint-es) | Más de 60 categorías de herramientas y recursos OSINT explicados en español (adaptación de jivoi/awesome-osint) |
+| [`osint-tools`](https://github.com/yNeoo/osint-tools) | Flujo de investigación con fuentes abiertas y herramientas OSINT. |
+| [`soc-blue-team`](https://github.com/yNeoo/soc-blue-team) | Wazuh, Suricata, Zeek, Sigma y playbooks de respuesta. |
+| [`digital-forensics`](https://github.com/yNeoo/digital-forensics) | DFIR, memoria, disco, red y cadena de custodia. |
+| [`malware-analysis`](https://github.com/yNeoo/malware-analysis) | Triage defensivo, YARA, Sigma e IOCs. |
+| [`hardening-guides`](https://github.com/yNeoo/hardening-guides) | Hardening de Linux y Windows con checklists reproducibles. |
+| [`api-security`](https://github.com/yNeoo/api-security) | OWASP API Top 10, JWT/OAuth, fuzzing y detección. |
 
-### Seguridad y pentesting
+## Repository map
 
-| Repositorio | Descripción |
-|---|---|
-| [`kali-tools`](https://github.com/yNeoo/kali-tools) | Herramientas de Kali Linux: Nmap, Metasploit, Burp Suite, John, Hashcat, Hydra, sqlmap, Aircrack-ng, Gobuster y más |
-| [`opsec-tools`](https://github.com/yNeoo/opsec-tools) | Anonimato y protección: Tor, ProxyChains, Nipe, VeraCrypt, KeePassXC, GPG, MAT2 y más |
-| [`hacking-cheatsheets`](https://github.com/yNeoo/hacking-cheatsheets) | Comandos rápidos de referencia por categoría |
-| [`yNeoo-Tools`](https://github.com/yNeoo/yNeoo-Tools) | Minecraft Screenshare: análisis forense y detección de cheats |
-| [`hacking-lab`](https://github.com/yNeoo/hacking-lab) | Laboratorio de pentesting con Docker: DVWA, Juice Shop, bWAPP, Metasploitable y Kali en red aislada |
-| [`ctf-writeups`](https://github.com/yNeoo/ctf-writeups) | Plantillas y guías de writeups CTF: web, pwn, crypto, forensics, OSINT y re |
-| [`ad-attacks`](https://github.com/yNeoo/ad-attacks) | Ataques a Active Directory en laboratorio: Kerberoasting, AS-REP Roast, Pass-the-Hash, BloodHound + detección SIEM |
-| [`network-mitm`](https://github.com/yNeoo/network-mitm) | Ataques de red y MITM: Responder, BetterCap, ARP spoofing, Evil-Twin + detección |
-| [`exploit-dev`](https://github.com/yNeoo/exploit-dev) | Desarrollo de exploits: buffer overflow, ROP y mitigaciones (NX, ASLR, canary) |
-| [`offensive-tooling`](https://github.com/yNeoo/offensive-tooling) | Programación de herramientas ofensivas y defensivas: recon, ataques web de lab, MITM y exploit-dev en Python, Bash y PowerShell + detección |
+### Intelligence & privacy
 
-### Defensa y forensia (Blue Team)
+- [`osint-tools`](https://github.com/yNeoo/osint-tools) — investigación de fuentes abiertas.
+- [`awesome-osint-es`](https://github.com/yNeoo/awesome-osint-es) — recursos y categorías OSINT en español.
+- [`opsec-tools`](https://github.com/yNeoo/opsec-tools) — privacidad, cifrado y seguridad operacional.
 
-| Repositorio | Descripción |
-|---|---|
-| [`soc-blue-team`](https://github.com/yNeoo/soc-blue-team) | Kit Blue Team: Wazuh, Suricata, Zeek, TheHive, reglas Sigma y playbook de respuesta |
-| [`digital-forensics`](https://github.com/yNeoo/digital-forensics) | Informática forense (DFIR): memoria, disco, red, artefactos Windows y cadena de custodia |
-| [`malware-analysis`](https://github.com/yNeoo/malware-analysis) | Tipos de malware documentados (virus, rootkits, ransomware, stealers...), análisis seguro en lab (REMnux/sandbox/memoria) y detección YARA/Sigma |
-| [`hardening-guides`](https://github.com/yNeoo/hardening-guides) | Hardening de Linux y Windows: checklist accionables y auditoría con Lynis |
+### Blue Team & DFIR
 
-Cada repositorio incluye instalación (script `install.sh` + guía `INSTALL.md`), documentación completa de cada herramienta y aviso de uso responsable.
+- [`soc-blue-team`](https://github.com/yNeoo/soc-blue-team) — detección y respuesta a incidentes.
+- [`digital-forensics`](https://github.com/yNeoo/digital-forensics) — forensica digital y análisis de artefactos.
+- [`malware-analysis`](https://github.com/yNeoo/malware-analysis) — análisis defensivo y detección de malware.
 
-## Proyectos
+### Application, cloud & system security
 
-| Proyecto | Estado |
-|---|---|
-| Colección de herramientas OSINT documentadas | Activo |
-| Guía de anonimato y seguridad operacional | Activo |
-| Cheatsheets de pentesting | Activo |
-| Minecraft Screenshare (detección de cheats) | Activo |
-| Laboratorio de pentesting (Docker) | Activo |
-| Blue Team: SOC, forensia y hardening | Activo |
-| Análisis de malware y detección (malware-analysis) | Activo |
-| Writeups de CTFs | Activo |
-| Red Team: AD attacks + C2 + ofensiva avanzada (privado) | Activo |
-| Programación de herramientas (offensive-tooling) | Activo |
+- [`api-security`](https://github.com/yNeoo/api-security) — seguridad de APIs y OWASP.
+- [`cloud-security`](https://github.com/yNeoo/cloud-security) — AWS, Azure, GCP, IAM y hardening.
+- [`mobile-pentesting`](https://github.com/yNeoo/mobile-pentesting) — análisis de Android/iOS en laboratorio.
+- [`reverse-engineering`](https://github.com/yNeoo/reverse-engineering) — Ghidra, depuración y análisis de binarios.
+- [`crypto-stego`](https://github.com/yNeoo/crypto-stego) — criptografía y esteganografía para CTF.
+- [`privilege-escalation`](https://github.com/yNeoo/privilege-escalation) — Linux y Windows, detección y mitigación.
 
-<table>
-  <tr>
-    <th>OSINT</th>
-    <th>OpSec</th>
-    <th>Kali Linux</th>
-  </tr>
-  <tr>
-    <td align="center">Recopilación de información pública: personas, dominios, emails, metadatos</td>
-    <td align="center">Anonimato, cifrado y protección de la identidad en la red</td>
-    <td align="center">Escaneo, explotación y auditoría de sistemas y aplicaciones</td>
-  </tr>
-</table>
+### Authorized labs & learning
 
-## Aviso
+- [`hacking-lab`](https://github.com/yNeoo/hacking-lab) — laboratorio Docker con DVWA, Juice Shop, bWAPP y Metasploitable.
+- [`ctf-writeups`](https://github.com/yNeoo/ctf-writeups) — writeups y plantillas de CTF en español.
+- [`bug-bounty`](https://github.com/yNeoo/bug-bounty) — metodología, triage y reporting responsable.
+- [`wireless-hacking`](https://github.com/yNeoo/wireless-hacking) — auditoría WiFi y detección WIDS.
+- [`password-cracking`](https://github.com/yNeoo/password-cracking) — auditoría de contraseñas y defensa.
+- [`exploit-dev`](https://github.com/yNeoo/exploit-dev) — exploit development en laboratorio y mitigaciones.
+- [`network-mitm`](https://github.com/yNeoo/network-mitm) — análisis de red y detección de MITM.
+- [`ad-attacks`](https://github.com/yNeoo/ad-attacks) — pruebas de Active Directory y detección SIEM.
+- [`offensive-tooling`](https://github.com/yNeoo/offensive-tooling) — herramientas de laboratorio con notas defensivas.
+- [`kali-tools`](https://github.com/yNeoo/kali-tools) — referencia de herramientas de Kali Linux.
+- [`hacking-cheatsheets`](https://github.com/yNeoo/hacking-cheatsheets) — comandos de referencia por categoría.
 
-Todo el contenido de estos repositorios tiene fines **educativos y de investigación**. Las herramientas solo deben usarse sobre sistemas propios o con autorización explícita y por escrito. El uso indebido es ilegal y responsabilidad exclusiva de quien lo realiza.
+## Principios de trabajo
 
-## Contacto
+1. **Privacidad por defecto:** minimizar datos personales y no publicar identificadores innecesarios.
+2. **Laboratorios reproducibles:** documentar entorno, alcance, comandos y resultados.
+3. **Defensa primero:** cada prueba se acompaña de detección, mitigación y registro.
+4. **Responsable disclosure:** reportar vulnerabilidades por el canal acordado y esperar una corrección.
+5. **Menos exposición:** no incluir tokens, claves, datos de terceros ni informes sensibles en repositorios públicos.
 
-- GitHub: [yNeoo](https://github.com/yNeoo)
+## Uso responsable
+
+El material ofensivo o de pentesting debe usarse únicamente contra sistemas propios o con autorización explícita y por escrito. No se autoriza el acceso a sistemas de terceros, la extracción de datos personales, el despliegue de malware ni la elusión de controles. Cada laboratorio debe permanecer aislado, documentado y limpiarse al finalizar la prueba.
 
 ---
 
-© 2026 yNeoo · Hecho con dedication y café ☕
+© 2026 yNeoo · Documentación en español
