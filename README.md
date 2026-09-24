@@ -1,78 +1,43 @@
 # yNeoo
 
-> `security research // OSINT // Blue Team // authorized labs`
+> Seguridad defensiva, OSINT y laboratorios autorizados · marca **fakenews**
 
-Perfil público de investigación y documentación en ciberseguridad. Trabajo con fuentes abiertas, privacidad operacional, análisis defensivo, forensia digital y endurecimiento de sistemas.
+Perfil público de yNeoo. El objetivo es mantener un conjunto pequeño de herramientas reproducibles, con documentación clara y detección como eje principal.
 
-Este perfil utiliza un alias público y no publica nombre real, correo, ubicación ni redes personales.
+## Herramientas públicas
 
-## Enfoque
+### Toolkit propio
 
-- **OSINT:** metodología, fuentes abiertas y reducción de exposición.
-- **Blue Team:** detección, triaje, respuesta a incidentes y reglas YARA/Sigma.
-- **Security engineering:** Linux, Windows, cloud, APIs y endurecimiento.
-- **Authorized labs:** documentación y experimentos en entornos propios o con autorización escrita.
+- [`fakenews-toolkit`](https://github.com/yNeoo/fakenews-toolkit) — CLI local para identificar hashes, validar IOCs y generar evidencia; incluye guías en español, pruebas y CI.
 
-## Selected work
+### Laboratorios y defensa
 
-| Proyecto | Enfoque |
-|---|---|
-| [`osint-tools`](https://github.com/yNeoo/osint-tools) | Flujo de investigación con fuentes abiertas y herramientas OSINT. |
-| [`soc-blue-team`](https://github.com/yNeoo/soc-blue-team) | Wazuh, Suricata, Zeek, Sigma y playbooks de respuesta. |
-| [`digital-forensics`](https://github.com/yNeoo/digital-forensics) | DFIR, memoria, disco, red y cadena de custodia. |
-| [`malware-analysis`](https://github.com/yNeoo/malware-analysis) | Triage defensivo, YARA, Sigma e IOCs. |
-| [`hardening-guides`](https://github.com/yNeoo/hardening-guides) | Hardening de Linux y Windows con checklists reproducibles. |
-| [`api-security`](https://github.com/yNeoo/api-security) | OWASP API Top 10, JWT/OAuth, fuzzing y detección. |
+- [`hacking-lab`](https://github.com/yNeoo/hacking-lab) — laboratorio Docker reproducible.
+- [`hardening-guides`](https://github.com/yNeoo/hardening-guides) — hardening y pruebas de resistencia en staging local.
+- [`malware-analysis`](https://github.com/yNeoo/malware-analysis) — triaje, YARA, Sigma y detección.
+- [`soc-blue-team`](https://github.com/yNeoo/soc-blue-team) — Wazuh, Suricata, Zeek y playbooks.
 
-## Repository map
+### Herramientas autorizadas
 
-### Intelligence & privacy
+- [`api-security`](https://github.com/yNeoo/api-security) — OWASP API Top 10, JWT/OAuth y enumeración controlada.
+- [`bug-bounty`](https://github.com/yNeoo/bug-bounty) — metodología, scope legal y reporting responsable.
+- [`crypto-stego`](https://github.com/yNeoo/crypto-stego) — ejercicios de criptografía y esteganografía.
+- [`mobile-pentesting`](https://github.com/yNeoo/mobile-pentesting) — análisis de APK, Frida y defensa móvil.
+- [`network-mitm`](https://github.com/yNeoo/network-mitm) — análisis de red y detección en laboratorio.
+- [`offensive-tooling`](https://github.com/yNeoo/offensive-tooling) — scripts educativos con controles de uso.
+- [`password-cracking`](https://github.com/yNeoo/password-cracking) — identificación de hashes y defensa.
+- [`privilege-escalation`](https://github.com/yNeoo/privilege-escalation) — enumeración y hardening.
+- [`wireless-hacking`](https://github.com/yNeoo/wireless-hacking) — auditoría WiFi y WIDS en laboratorio.
 
-- [`osint-tools`](https://github.com/yNeoo/osint-tools) — investigación de fuentes abiertas.
-- [`awesome-osint-es`](https://github.com/yNeoo/awesome-osint-es) — recursos y categorías OSINT en español.
-- [`opsec-tools`](https://github.com/yNeoo/opsec-tools) — privacidad, cifrado y seguridad operacional.
+## Principios
 
-### Blue Team & DFIR
-
-- [`soc-blue-team`](https://github.com/yNeoo/soc-blue-team) — detección y respuesta a incidentes.
-- [`digital-forensics`](https://github.com/yNeoo/digital-forensics) — forensica digital y análisis de artefactos.
-- [`malware-analysis`](https://github.com/yNeoo/malware-analysis) — análisis defensivo y detección de malware.
-
-### Application, cloud & system security
-
-- [`api-security`](https://github.com/yNeoo/api-security) — seguridad de APIs y OWASP.
-- [`cloud-security`](https://github.com/yNeoo/cloud-security) — AWS, Azure, GCP, IAM y hardening.
-- [`mobile-pentesting`](https://github.com/yNeoo/mobile-pentesting) — análisis de Android/iOS en laboratorio.
-- [`reverse-engineering`](https://github.com/yNeoo/reverse-engineering) — Ghidra, depuración y análisis de binarios.
-- [`crypto-stego`](https://github.com/yNeoo/crypto-stego) — criptografía y esteganografía para CTF.
-- [`privilege-escalation`](https://github.com/yNeoo/privilege-escalation) — Linux y Windows, detección y mitigación.
-
-### Authorized labs & learning
-
-- [`hacking-lab`](https://github.com/yNeoo/hacking-lab) — laboratorio Docker con DVWA, Juice Shop, bWAPP y Metasploitable.
-- [`ctf-writeups`](https://github.com/yNeoo/ctf-writeups) — writeups y plantillas de CTF en español.
-- [`bug-bounty`](https://github.com/yNeoo/bug-bounty) — metodología, triage y reporting responsable.
-- [`wireless-hacking`](https://github.com/yNeoo/wireless-hacking) — auditoría WiFi y detección WIDS.
-- [`password-cracking`](https://github.com/yNeoo/password-cracking) — auditoría de contraseñas y defensa.
-- [`exploit-dev`](https://github.com/yNeoo/exploit-dev) — exploit development en laboratorio y mitigaciones.
-- [`network-mitm`](https://github.com/yNeoo/network-mitm) — análisis de red y detección de MITM.
-- [`ad-attacks`](https://github.com/yNeoo/ad-attacks) — pruebas de Active Directory y detección SIEM.
-- [`offensive-tooling`](https://github.com/yNeoo/offensive-tooling) — herramientas de laboratorio con notas defensivas.
-- [`kali-tools`](https://github.com/yNeoo/kali-tools) — referencia de herramientas de Kali Linux.
-- [`hacking-cheatsheets`](https://github.com/yNeoo/hacking-cheatsheets) — comandos de referencia por categoría.
-
-## Principios de trabajo
-
-1. **Privacidad por defecto:** minimizar datos personales y no publicar identificadores innecesarios.
-2. **Laboratorios reproducibles:** documentar entorno, alcance, comandos y resultados.
-3. **Defensa primero:** cada prueba se acompaña de detección, mitigación y registro.
-4. **Responsable disclosure:** reportar vulnerabilidades por el canal acordado y esperar una corrección.
-5. **Menos exposición:** no incluir tokens, claves, datos de terceros ni informes sensibles en repositorios públicos.
+- Defensa primero: cada experimento incluye detección o mitigación.
+- Laboratorios aislados, reproducibles y fáciles de limpiar.
+- No se publican muestras, credenciales ni datos de terceros.
+- Los repositorios privados no se enlazan desde este perfil.
 
 ## Uso responsable
 
-El material ofensivo o de pentesting debe usarse únicamente contra sistemas propios o con autorización explícita y por escrito. No se autoriza el acceso a sistemas de terceros, la extracción de datos personales, el despliegue de malware ni la elusión de controles. Cada laboratorio debe permanecer aislado, documentado y limpiarse al finalizar la prueba.
+Solo practica contra sistemas propios o con autorización escrita. No publiques datos personales, no uses herramientas para causar daño y respeta el scope de cada programa o laboratorio.
 
----
-
-© 2026 yNeoo · Documentación en español
+© 2026 yNeoo · Documentación en español · Código MIT cuando el repositorio lo indique.
